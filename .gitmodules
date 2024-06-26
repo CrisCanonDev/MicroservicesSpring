@@ -1,6 +1,3 @@
-[submodule "Api-Gateway"]
-	path = Api-Gateway
-	url = https://github.com/CrisCanonDev/Api-Gateway.git
 [submodule "Boooking Microservices"]
 	path = Boooking Microservices
 	url = https://github.com/CrisCanonDev/booking-microservice
