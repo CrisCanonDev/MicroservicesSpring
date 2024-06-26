@@ -1,3 +1,21 @@
 [submodule "Api-Gateway"]
 	path = Api-Gateway
 	url = https://github.com/CrisCanonDev/Api-Gateway.git
+[submodule "Boooking Microservices"]
+	path = Boooking Microservices
+	url = https://github.com/CrisCanonDev/booking-microservice
+[submodule "Config Server"]
+	path = Config Server
+	url = https://github.com/CrisCanonDev/config-server
+[submodule "Discovery Server"]
+	path = Discovery Server
+	url = https://github.com/CrisCanonDev/Discovery-server
+[submodule "Product Microservice"]
+	path = Product Microservice
+	url = https://github.com/CrisCanonDev/product-microservice
+[submodule "Service Configuration"]
+	path = Service Configuration
+	url = https://github.com/CrisCanonDev/service-configuration
+[submodule "Stock Microservice"]
+	path = Stock Microservice
+	url = https://github.com/CrisCanonDev/stock-microservice
