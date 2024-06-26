@@ -16,3 +16,6 @@
 [submodule "Stock Microservice"]
 	path = Stock Microservice
 	url = https://github.com/CrisCanonDev/stock-microservice
+[submodule "ApiGateway"]
+	path = ApiGateway
+	url = https://github.com/CrisCanonDev/Api-Gateway
